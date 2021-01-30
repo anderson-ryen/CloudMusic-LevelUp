@@ -1,6 +1,6 @@
 # CloudMusic-LevelUp
 
-> 网易云音乐刷歌升级脚本--运行--
+> 网易云音乐刷歌升级脚本
 >
 > [项目 GitHub 地址](https://github.com/Secriy/CloudMusic-LevelUp)
 
@@ -10,6 +10,7 @@
 2. 执行签到，并显示奖励的积分数值
 3. 刷音乐播放量，返回具体数值
 4. 使用 GitHub Actions 挂脚本
+5. 开始
 
 ## 使用方式
 
